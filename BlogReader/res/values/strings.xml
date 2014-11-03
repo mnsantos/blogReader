@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="android_names">
+    	<item>Android beta</item>
+    	<item>Android 1.1</item>
+    	<item>Android 1.2</item>
+    	<item>JellyBean</item>   
+    </string-array><string name="no_items">No items to display!</string>
+    
+    
+    <string name="error_title">Oops! Sorry!</string>
+    <string name="error_message">There was an error getting data from the blog.</string>
+
+</resources>
